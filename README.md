@@ -10,7 +10,7 @@
 | Нарисовать блок-схему алгоритма  | <span style='color: red;'>В процессе</span>   |
 | Добавить README.md               | <span style='color: green;'>Готово</span>       |
 | Написать программу  по задаче    | <span style='color: red;'>В процессе</span>   |
-| Использовать контроль версий    | <span style='color: green;'>Используется</span> |
+| Использовать контроль версий    | <span style='color: green;'>Готово</span> |
 
 ### Патчноут
 | Версия | Комментарий |
